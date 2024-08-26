@@ -1,0 +1,11 @@
+# Restaurant Menu 
+  - Link Bootstraps to our HTML page
+  - Link styles.css file to our page
+  - Link Javascript file 
+  - Use Bootstrap Navbar component for navigation.
+  - Display video in the background of home page
+  - Display Menu in home page
+  - Dynamically inserted menu items to menu-container
+  - Inclues category in Navbar and add event listeners to perform filter operation
+  - Implement Search functionality
+  - Responsiveness Deshktop View, Medium View, Mobile View.
